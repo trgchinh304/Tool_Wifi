@@ -1,6 +1,6 @@
 # ! py
 # Tool speedtest wifi
-# Copyright by @Truongchinh304
+# Copyright by Chatgpt
 # pip install speedtest-cli
 
 import sys
