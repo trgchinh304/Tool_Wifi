@@ -232,7 +232,7 @@ def cap_nhat_moi_phut():
             ve_bieu_do_nen_ma()
             ve_bieu_do_nen_boll()
             ve_bieu_do_nen_ema()
-        os.remove(f'D:\\Python\\{ten_crypto.upper()}.json')    
+            os.remove(f'D:\\Python\\{ten_crypto.upper()}.json')    
     except Exception as e:
         print(f"Đã xảy ra lỗi: {e}")        
 
