@@ -217,7 +217,7 @@ def ve_bieu_do_nen_ema():
     thoi_gian_hien_tai = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"Biểu đồ nến đã được lưu lúc: {thoi_gian_hien_tai}\n")
 
-def cap_nhat_moi_phut():
+def main():
     try:
         danh_sach = lay_danh_sach_crypto()
         ten_crypto = nhap_ten_coin(danh_sach)
@@ -237,5 +237,5 @@ def cap_nhat_moi_phut():
         print(f"Đã xảy ra lỗi: {e}")        
 
 if __name__ == "__main__":
-    cap_nhat_moi_phut()
+    main()
 
