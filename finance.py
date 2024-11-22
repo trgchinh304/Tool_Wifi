@@ -1,9 +1,12 @@
 import time, requests, json, telebot, os
+import matplotlib
 import pandas as pd
 import mplfinance as mpf
 from datetime import datetime, timedelta
 
 URL_API_BINANCE= 'https://api.binance.com/api/v3'
+
+matplotlib.use('Agg') # không dùng đồ họa trực tiếp
 
 # Nhập tên coin
 def nhap_ten_coin(danh_sach):
