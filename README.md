@@ -37,6 +37,7 @@ python wifi_tool.py
 ![image](https://github.com/user-attachments/assets/0103122f-bdc7-4757-9437-64af08c3dfda)
 
 ## Get Password
-![image](https://github.com/user-attachments/assets/fcc13f3c-5687-42d9-b442-7de92e4c7172)
+![image](https://github.com/user-attachments/assets/debd9d4d-fa0a-411c-ae58-2ccc943a9b18)
+
 
 
