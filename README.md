@@ -42,5 +42,7 @@ python wifi_tool.py
 ## Get weather data
 ![image](https://github.com/user-attachments/assets/f556306e-da34-4838-a64f-f4fcb1e03601)
 
+## Get nation data
+![image](https://github.com/user-attachments/assets/cd5f66a2-6e16-4a4f-be2e-36af2dbbb0ac)
 
 
