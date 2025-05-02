@@ -39,5 +39,8 @@ python wifi_tool.py
 ## Get Password
 ![image](https://github.com/user-attachments/assets/debd9d4d-fa0a-411c-ae58-2ccc943a9b18)
 
+## Get weather data
+![image](https://github.com/user-attachments/assets/f556306e-da34-4838-a64f-f4fcb1e03601)
+
 
 
